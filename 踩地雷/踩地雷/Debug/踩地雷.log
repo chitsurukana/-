@@ -1,0 +1,5 @@
+﻿  Mine.cpp
+C:\Users\acer\Desktop\踩地雷\踩地雷\Mine.cpp(62,12): warning C4101: 'y': 未參考的區域變數
+C:\Users\acer\Desktop\踩地雷\踩地雷\Mine.cpp(62,9): warning C4101: 'x': 未參考的區域變數
+C:\Users\acer\Desktop\踩地雷\踩地雷\Mine.cpp(68,15): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  踩地雷.vcxproj -> C:\Users\acer\Desktop\踩地雷\Debug\踩地雷.exe
